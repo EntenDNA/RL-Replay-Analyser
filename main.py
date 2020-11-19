@@ -56,6 +56,7 @@ class Window():
 
     def browseReplay(self):
         self.frame.pack_forget()
+        self.playerChooseList.delete(0, tk.END)
         self.ballId = 0
         self.ids = {}
         self.posDict = {}
