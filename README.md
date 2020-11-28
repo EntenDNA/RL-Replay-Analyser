@@ -1,10 +1,10 @@
 # RL-Replay-Analyser
 This programm gives you some helpfull information about your Rocket League replay
 
-Features:
-  - All player heatmap
-  - Single player heatmap
-  - Ball heatmap
+# Features:
+  * All player heatmap
+  * Single player heatmap
+  * Ball heatmap
   
 *Player heatmap*
 ![Player heatmap](https://github.com/EntenDNA/RL-Replay-Analyser/blob/main/pictures/Figure_1.png?raw=true)
